@@ -1,0 +1,17 @@
+D:\4o8ly\ITI\Laps\C# Advanced\ADO-Desktop-Project\ADO-Desktop-Project\bin\Debug\ADO-Desktop-Project.exe.config
+D:\4o8ly\ITI\Laps\C# Advanced\ADO-Desktop-Project\ADO-Desktop-Project\bin\Debug\ADO-Desktop-Project.exe
+D:\4o8ly\ITI\Laps\C# Advanced\ADO-Desktop-Project\ADO-Desktop-Project\bin\Debug\ADO-Desktop-Project.pdb
+D:\4o8ly\ITI\Laps\C# Advanced\ADO-Desktop-Project\ADO-Desktop-Project\obj\Debug\ADO-Desktop-Project.csproj.AssemblyReference.cache
+D:\4o8ly\ITI\Laps\C# Advanced\ADO-Desktop-Project\ADO-Desktop-Project\obj\Debug\ADO-Desktop-Project.csproj.SuggestedBindingRedirects.cache
+D:\4o8ly\ITI\Laps\C# Advanced\ADO-Desktop-Project\ADO-Desktop-Project\obj\Debug\ADO_Desktop_Project.Properties.Resources.resources
+D:\4o8ly\ITI\Laps\C# Advanced\ADO-Desktop-Project\ADO-Desktop-Project\obj\Debug\ADO-Desktop-Project.csproj.GenerateResource.cache
+D:\4o8ly\ITI\Laps\C# Advanced\ADO-Desktop-Project\ADO-Desktop-Project\obj\Debug\ADO-Desktop-Project.csproj.CoreCompileInputs.cache
+D:\4o8ly\ITI\Laps\C# Advanced\ADO-Desktop-Project\ADO-Desktop-Project\obj\Debug\ADO-Desktop-Project.exe
+D:\4o8ly\ITI\Laps\C# Advanced\ADO-Desktop-Project\ADO-Desktop-Project\obj\Debug\ADO-Desktop-Project.pdb
+D:\4o8ly\ITI\Laps\C# Advanced\ADO-Desktop-Project\ADO-Desktop-Project\obj\Debug\ADO_Desktop_Project.Login.resources
+D:\4o8ly\ITI\Laps\C# Advanced\ADO-Desktop-Project\ADO-Desktop-Project\obj\Debug\ADO_Desktop_Project.Admin_Student.resources
+D:\4o8ly\ITI\Laps\C# Advanced\ADO-Desktop-Project\ADO-Desktop-Project\obj\Debug\ADO_Desktop_Project.Admin_Instructor.resources
+D:\4o8ly\ITI\Laps\C# Advanced\ADO-Desktop-Project\ADO-Desktop-Project\obj\Debug\ADO_Desktop_Project.Admin_Topics.resources
+D:\4o8ly\ITI\Laps\C# Advanced\ADO-Desktop-Project\ADO-Desktop-Project\obj\Debug\ADO_Desktop_Project.Admin_Courses.resources
+D:\4o8ly\ITI\Laps\C# Advanced\ADO-Desktop-Project\ADO-Desktop-Project\obj\Debug\ADO_Desktop_Project.Student_Form.resources
+D:\4o8ly\ITI\Laps\C# Advanced\ADO-Desktop-Project\ADO-Desktop-Project\obj\Debug\ADO_Desktop_Project.Instructor_Form.resources
